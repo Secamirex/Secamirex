@@ -3,7 +3,7 @@
 <h2> Cyber Security Projects:</h2>
 
 - <b> Vlunerability Assesment/Management  </b>
-   - [Vulnerability Assesemnt and report generation using OpenVAS](https://github.com/secamirex)
+   - [Vulnerability Assesemnt and report generation using OpenVAS](https://github.com/Secamirex/Vulnerability-Management)
 
 
 <h2> Certifications:</h2>
