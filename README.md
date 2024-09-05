@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amir! <br/><a href="https://github.com/secamirex">SOC Analyst</a>, <a href="https://www.linkedin.com/in/amir-nejad-34300132/"> IT and Telecommunication Technical Professional</a>
+<h1>Hi, I'm Amir! <br/><a href="https://github.com/secamirex">SOC Analyst</a>, <a href="https://www.linkedin.com/in/amir-nejad-34300132/"> Network and Telecommunication Technical Professional</a>
 
 <h2> Cyber Security Projects:</h2>
 
