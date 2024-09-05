@@ -9,7 +9,7 @@
 <h2> Certifications:</h2>
 
 - <b>ISC2 Certified Cybersecuirty </b>
-- <b>Comptia Security+, A+, Network+ , Linux+ </b>
+- <b>Comptia Security+, Network+ , Linux+, A+ </b>
 - <b>CCNA R&S, CCNA Security </b>
 - <b>Microsoft MTA - Windows Operating System Fundamentals </b>
 - <b>Certified Scrum Master </b>
