@@ -12,8 +12,9 @@
 - <b>Comptia Security+, Network+ , Linux+, A+ </b>
 - <b>CCNA R&S, CCNA Security </b>
 - <b>Microsoft MTA - Windows Operating System Fundamentals </b>
-- <b>Certified Scrum Master </b>
 - <b>TryHackMe - JR Pen Tester  </b>
+- <b>Certified Scrum Master </b>
+
 
   
 
