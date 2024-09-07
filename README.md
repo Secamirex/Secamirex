@@ -55,6 +55,7 @@
 <img src="https://img.shields.io/badge/-CCNA Security -000080?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft MTA_(Windows OS Fundamentals) -0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Certified Scrum Master-1679A7?&style=for-the-badge&logo=ScrumAlliance&logoColor=white" />
+<img src="https://img.shields.io/badge/-Diploma of Project Management-1679A7?&style=for-the-badge&logo=Swinburne&logoColor=white" />
 </div>
 
 
