@@ -7,7 +7,7 @@
 - <b> Web Attacks </b> 
    -  [SQL, XSS, IDOR and LFI/RFI attacks alerts investigations](https://github.com/Secamirex/Web_Attacks_Investigations/tree/main)
 - <b> Python Projects</b> 
-   -  [Python Scripts](https://github.com/Secamirex/Web_Attacks_Investigations/tree/main)
+   -  [Python Scripts](https://github.com/Secamirex/Python_Projects)
 
 ## 🛠️ Tools
 
