@@ -8,6 +8,9 @@
    -  [SQL, XSS, IDOR and LFI/RFI attacks alerts investigations](https://github.com/Secamirex/Web_Attacks_Investigations/tree/main)
 - <b> Python Projects</b> 
    -  [Python Scripts](https://github.com/Secamirex/Python_Projects)
+- <b> Malware Analysis</b> 
+   -  [Dynamic malware analysis on Windows ](https://github.com/Secamirex/Malware-investigations)
+
 
 ## 🛠️ Tools
 
