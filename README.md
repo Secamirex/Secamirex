@@ -12,7 +12,8 @@
    -  [Dynamic malware analysis on Windows ](https://github.com/Secamirex/Malware-investigations)
  - <b> OPNsense Firewall</b> 
    -  [Suricata IDS/IPS installtion & Configuration ](https://github.com/Secamirex/OPNsense_Firewall)
-   -  [Configuring Web Filtering & Transparent Proxy](README2.md)
+   -  [Configuring Web Filtering & Transparent Proxy](https://github.com/Secamirex/OPNsense_Firewall/README2.md)
+
 
 
 
