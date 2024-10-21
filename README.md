@@ -4,7 +4,7 @@
 
 - <b> Vlunerability Management  </b>
    - [Vulnerability Assessement and report generation using OpenVAS](https://github.com/Secamirex/Vulnerability-Management)
-- <b> Web Attacks </b> 
+- <b> Web Attacks Investigations </b> 
    -  [SQL, XSS, IDOR and LFI/RFI attacks alerts investigations](https://github.com/Secamirex/Web_Attacks_Investigations/tree/main)
 - <b> Python Projects</b> 
    -  [Python Scripts](https://github.com/Secamirex/Python_Projects)
