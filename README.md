@@ -3,7 +3,7 @@
 <h2> 🗃️ Cyber Security Projects</h2>
 
 - <b> Vlunerability Management  </b>
-   - [Vulnerability Assessement and report generation using OpenVAS](https://github.com/Secamirex/Vulnerability-Management)
+   - [Vulnerability Assessement via OpenVAS ](https://github.com/Secamirex/Vulnerability-Management)
 - <b> Web Attacks Investigations </b> 
    -  [SQL, XSS, IDOR and LFI/RFI attacks alerts investigations](https://github.com/Secamirex/Web_Attacks_Investigations/tree/main)
 - <b> Python Projects</b> 
