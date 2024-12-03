@@ -19,7 +19,11 @@
    -  [Wazuh Agent installation on Windows system](https://github.com/Secamirex/Wazuh-XDR-agent)
    -  [File Integrity Monitoring (FIM) on Windows system](https://github.com/Secamirex/Wazuh_FIM)
 
+- <b> System Monitoring with Splunk SIEM </b>
+   - [Windows Server Monitoring with Sysmon and Splunk](https://github.com/Secamirex/Windows-AD-Mon-with-Splunk/tree/main)
 
+- <b> LimaCharlie Cloud EDR </b>
+   
 
 ## 🛠️ Tools
 
