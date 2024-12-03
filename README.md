@@ -5,8 +5,12 @@
 - <b> Vlunerability Management  </b>
    - [Vulnerability Assessement using OpenVAS on Azure  ](https://github.com/Secamirex/Vulnerability-Management)
 
-- <b> Web Attacks alerts Investigations </b> 
+- <b> Web Attacks Alerts Investigations </b> 
    -  [SQL, XSS, IDOR and LFI/RFI attacks alerts investigations](https://github.com/Secamirex/Web_Attacks_Investigations/tree/main)
+
+
+- <b>Phishing Emails Alerts Investigations </b>
+
 
 - <b> Python </b> 
    -  [Python Scripts](https://github.com/Secamirex/Python_Projects)
@@ -19,7 +23,7 @@
  - <b> OPNsense Firewall</b> 
    -  [Suricata IDS/IPS installation and Configuration ](https://github.com/Secamirex/OPNsense_Firewall)
 
-- <b> System monitoring with Wazuh XDR/SIEM </b>
+- <b> System Monitoring with Wazuh XDR/SIEM </b>
    -  [Wazuh Agent installation on Windows system](https://github.com/Secamirex/Wazuh-XDR-agent)
    -  [File Integrity Monitoring (FIM) on Windows system](https://github.com/Secamirex/Wazuh_FIM)
 
@@ -27,7 +31,8 @@
    - [Windows Server Monitoring with Sysmon and Splunk](https://github.com/Secamirex/Windows-AD-Mon-with-Splunk/tree/main)
 
 - <b> LimaCharlie Cloud EDR </b>
-   
+
+- <b> SOC Incident Response and Threat Intelligence-TheHive,Cortex and MISP </b>
 
 ## 🛠️ Tools
 
