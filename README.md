@@ -16,7 +16,8 @@
    -  [Suricata IDS/IPS installation & Configuration ](https://github.com/Secamirex/OPNsense_Firewall)
 
 - <b> System monitoring with Wazuh XDR/SIEM </b>
-   -  [File Integrity Monitoring (FIM)](https://github.com/Secamirex/Wazuh_FIM)
+   -  [Wazuh Agent installation on Windows system](https://github.com/Secamirex/Wazuh-XDR-agent)
+   -  [File Integrity Monitoring (FIM) on Windows system](https://github.com/Secamirex/Wazuh_FIM)
 
 
 
