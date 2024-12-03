@@ -4,16 +4,20 @@
 
 - <b> Vlunerability Management  </b>
    - [Vulnerability Assessement using OpenVAS on Azure  ](https://github.com/Secamirex/Vulnerability-Management)
+
 - <b> Web Attacks alerts Investigations </b> 
    -  [SQL, XSS, IDOR and LFI/RFI attacks alerts investigations](https://github.com/Secamirex/Web_Attacks_Investigations/tree/main)
-- <b> Python Projects</b> 
+
+- <b> Python </b> 
    -  [Python Scripts](https://github.com/Secamirex/Python_Projects)
+
 - <b> Malware Analysis</b> 
    -  [Dynamic malware analysis on Windows ](https://github.com/Secamirex/Malware-investigations)
    -  [Static malware analysis using FlareVM ](https://github.com/Secamirex/Malware_Analysis_Flare-VM)
    -  [Static malicious document analysis using REMnux ](https://github.com/Secamirex/Malware_Analysis_REMnux/tree/main)
+ 
  - <b> OPNsense Firewall</b> 
-   -  [Suricata IDS/IPS installation & Configuration ](https://github.com/Secamirex/OPNsense_Firewall)
+   -  [Suricata IDS/IPS installation and Configuration ](https://github.com/Secamirex/OPNsense_Firewall)
 
 - <b> System monitoring with Wazuh XDR/SIEM </b>
    -  [Wazuh Agent installation on Windows system](https://github.com/Secamirex/Wazuh-XDR-agent)
