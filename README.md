@@ -15,7 +15,8 @@
  - <b> OPNsense Firewall</b> 
    -  [Suricata IDS/IPS installation & Configuration ](https://github.com/Secamirex/OPNsense_Firewall)
 
-
+- <b> System monitoring with Wazuh XDR/SIEM </b>
+   -  [File Integrity Monitoring (FIM)](https://github.com/Secamirex/Wazuh_FIM)
 
 
 
