@@ -11,7 +11,7 @@
 - <b> Malware Analysis</b> 
    -  [Dynamic malware analysis on Windows ](https://github.com/Secamirex/Malware-investigations)
    -  [Static malware analysis using FlareVM ](https://github.com/Secamirex/Malware_Analysis_Flare-VM)
-   -  [Static malware analysis using REMnux ](https://github.com/Secamirex/Malware_Analysis_REMnux)
+   -  [Static malicious document analysis using REMnux ](https://github.com/Secamirex/Malware_Analysis_REMnux/tree/main)
  - <b> OPNsense Firewall</b> 
    -  [Suricata IDS/IPS installation & Configuration ](https://github.com/Secamirex/OPNsense_Firewall)
 
