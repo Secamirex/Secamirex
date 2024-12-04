@@ -26,6 +26,7 @@
 - <b> System Monitoring with Wazuh XDR/SIEM </b>
    -  [Wazuh Agent installation on Windows system](https://github.com/Secamirex/Wazuh-XDR-agent)
    -  [File Integrity Monitoring (FIM) on Windows system](https://github.com/Secamirex/Wazuh_FIM)
+   -  [Threat Hunting on Windows and Linux endpoints](https://github.com/Secamirex/Wazuh_Threat-Hunting/tree/main)
 
 - <b> System Monitoring with Splunk SIEM </b>
    - [Windows Server Monitoring with Sysmon and Splunk](https://github.com/Secamirex/Windows-AD-Mon-with-Splunk/tree/main)
