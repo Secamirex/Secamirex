@@ -30,6 +30,9 @@
 
 - <b> System Monitoring with Splunk SIEM </b>
    - [Windows Server Monitoring with Sysmon and Splunk](https://github.com/Secamirex/Windows-AD-Mon-with-Splunk/tree/main)
+ 
+- <b> Honeypot on Azure </b>
+   - [T-Pot Honeypot Setup on Azure](https://github.com/Secamirex/T-Pot_Honeypot_Azure/tree/main)
 
 - <b> LimaCharlie Cloud EDR </b>
 
