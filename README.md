@@ -19,6 +19,9 @@
    -  [Dynamic malware analysis on Windows ](https://github.com/Secamirex/Malware-investigations)
    -  [Static malware analysis using FlareVM ](https://github.com/Secamirex/Malware_Analysis_Flare-VM)
    -  [Static malicious document analysis using REMnux ](https://github.com/Secamirex/Malware_Analysis_REMnux/tree/main)
+
+- <b> Threat Hunting with Sysmon </b>
+  - [Detecting Mimikatz on Windows ](https://github.com/Secamirex/Sysmon_TH_mimikatz)
  
  - <b> OPNsense Firewall</b> 
    -  [Suricata IDS/IPS installation and Configuration ](https://github.com/Secamirex/OPNsense_Firewall)
