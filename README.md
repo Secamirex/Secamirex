@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amir! <br/><a href="https://github.com/secamirex">SOC Analyst</a>, <a href="https://www.linkedin.com/in/amir-nejad-34300132/"> Microsoft Security Analyst,Incident Responder and Systems Engineer</a>
+<h1>Hi, I'm Amir! <br/><a href="https://github.com/secamirex">SOC Analyst</a>, <a href="https://www.linkedin.com/in/amir-nejad-34300132/"> Incident Responder and Systems Engineer</a>
 
 <h2> 🗃️ Cyber Security Projects</h2>
 
@@ -19,6 +19,9 @@
    -  [Dynamic malware analysis on Windows ](https://github.com/Secamirex/Malware-investigations)
    -  [Static malware analysis using FlareVM ](https://github.com/Secamirex/Malware_Analysis_Flare-VM)
    -  [Static malicious document analysis using REMnux ](https://github.com/Secamirex/Malware_Analysis_REMnux/tree/main)
+
+- <b> PoweShell Scripts Analysis</b>
+   -  [PowerShell Base64 encoded script investigation](https://github.com/Secamirex/Powershell_Scripts/tree/main)
 
 - <b> Threat Hunting with Sysmon </b>
   - [Detecting Mimikatz on Windows ](https://github.com/Secamirex/Sysmon_TH_mimikatz)
