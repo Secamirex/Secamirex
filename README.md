@@ -72,11 +72,18 @@
 ### Malware Analysis
 <img src="https://img.shields.io/badge/-REMNUX -000085?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-FLAREVM -000080?&style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/-OleTools-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
 ### Vulnerability Management
 <img src="https://img.shields.io/badge/-OpenVAS-006400?&style=for-the-badge&logo=Greenbone&logoColor=white" />
 <img src="https://img.shields.io/badge/-Metasploitable-000000?&style=for-the-badge&logo=Rapid7&logoColor=white" />
 
+### DFIR
+<img src="https://img.shields.io/badge/-FTK Imager -000085?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Belkasoft RAM Capturer -000085?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Autopsy -000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-KAPE -000085?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Volatility -000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 
