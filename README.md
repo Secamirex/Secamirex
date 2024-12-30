@@ -88,6 +88,7 @@
 <img src="https://img.shields.io/badge/-Autopsy -000080?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-KAPE -000085?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Volatility3 -000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Registry_Explorer-006400?&style=for-the-badge&logo=Greenbone&logoColor=white" />
 </div>
 
 
