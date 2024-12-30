@@ -18,9 +18,10 @@
 - <b> Malware Analysis</b> 
    -  [Dynamic malware analysis on Windows ](https://github.com/Secamirex/Malware-investigations)
    -  [Static malware analysis using FlareVM ](https://github.com/Secamirex/Malware_Analysis_Flare-VM)
-   -  [Static malicious document analysis using REMnux ](https://github.com/Secamirex/Malware_Analysis_REMnux/tree/main)
+   -  [Malicious document analysis using REMnux ](https://github.com/Secamirex/Malware_Analysis_REMnux/tree/main)
+   -  [Malicious executable analysis using PEStudio ](https://github.com/Secamirex/PEStudio/tree/main)
 
-- <b> PoweShell Scripts Analysis</b>
+- <b> PowerShell Scripts Analysis</b>
    -  [PowerShell Base64 encoded script investigation](https://github.com/Secamirex/Powershell_Scripts/tree/main)
 
 - <b> Threat Hunting with Sysmon </b>
@@ -72,7 +73,8 @@
 ### Malware Analysis
 <img src="https://img.shields.io/badge/-REMNUX -000085?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-FLAREVM -000080?&style=for-the-badge&logoColor=white" />
-   <img src="https://img.shields.io/badge/-OleTools-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+   <img src="https://img.shields.io/badge/-OleTools-000000?&style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/-PEStudio-000000?&style=for-the-badge&logo=&logoColor=white" />
 
 ### Vulnerability Management
 <img src="https://img.shields.io/badge/-OpenVAS-006400?&style=for-the-badge&logo=Greenbone&logoColor=white" />
