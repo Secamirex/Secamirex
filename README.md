@@ -45,7 +45,7 @@
 - <b> SOC Incident Response and Threat Intelligence </b>
   - [TheHive, Cortex and MISP Installation via Docker Compose](https://github.com/Secamirex/Incident_Response_TheHive/tree/main)
  
--  <b> DFIR </b>
+
 
 ## 🛠️ Tools
 
