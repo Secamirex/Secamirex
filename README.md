@@ -1,9 +1,9 @@
-<h1>Hi, I'm Amir! <br/><a href="https://github.com/secamirex">SOC Analyst</a>, <a href="https://www.linkedin.com/in/amir-nejad-34300132/"> Incident Responder and Systems Engineer</a>
+<h1>Hi, I'm Amir! <br/><a href="https://github.com/secamirex">Cyber Security Analyst</a>, <a href="https://www.linkedin.com/in/amir-nejad-34300132/"> and Systems Engineer</a>
 
 <h2> 🗃️ Cyber Security Projects</h2>
 
-- <b> Vlunerability Management  </b>
-   - [Vulnerability Assessement using OpenVAS on Azure  ](https://github.com/Secamirex/Vulnerability-Management)
+- <b> Vulnerability Management  </b>
+   - [Vulnerability Assessment using OpenVAS on Azure  ](https://github.com/Secamirex/Vulnerability-Management)
 
 - <b> Web Attacks Alerts Investigations </b> 
    -  [SQL, XSS, IDOR and LFI/RFI attacks alerts investigations](https://github.com/Secamirex/Web_Attacks_Investigations/tree/main)
