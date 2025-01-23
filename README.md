@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amir! <br/><a href="https://github.com/secamirex">Cyber Security Analyst</a>, <a href="https://www.linkedin.com/in/amir-nejad-34300132/"> and Systems Engineer</a>
+<h1>Hi, I'm Amir! <br/><a href="https://github.com/secamirex">Cyber Security Analyst</a><a href="https://www.linkedin.com/in/amir-nejad-34300132/"> |  Systems Engineer</a>
 
 <h2> 🗃️ Cyber Security Projects</h2>
 
